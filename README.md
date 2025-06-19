@@ -28,8 +28,8 @@ This sitemap represents the navigation structure for an e-commerce website.
 
 ## 🛒 CART
  - Description: Manages the shopping cart.
-  -	PAY: Page to process payment.
-  -	CONTINUE SHOPPING: Redirect back to shopping.
+    -	PAY: Page to process payment.
+    -	CONTINUE SHOPPING: Redirect back to shopping.
 
 
 ## 👤 USER
